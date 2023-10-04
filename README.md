@@ -6,8 +6,13 @@ This repository provides a comprehensive analysis of customer churn in a busines
 **Key Features**
 
 **Data Exploration**: Dive into the dataset, examining customer attributes, transaction history, and behavior patterns.
+
 **K-Means Clustering**: Implement K-Means clustering to segment customers into distinct groups based on their characteristics.
+
 **Churn Prediction**: Use clustering results to predict which customer segments are more likely to churn and develop targeted retention strategies.
+
 **Visualization**: Visualize customer segments, churn rates, and other relevant metrics using charts and graphs.
+
 **Model Evaluation**: Evaluate the effectiveness of the K-Means clustering approach in predicting churn and explore alternative methods.
+
 **Insights and Recommendations**: Draw actionable insights from the analysis and recommend strategies to reduce churn.
